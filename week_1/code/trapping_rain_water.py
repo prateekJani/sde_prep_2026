@@ -24,11 +24,6 @@ class Solution:
         return res
 
 
-
-
-
-        pass
-
 # Test cases
 if __name__ == "__main__":
     sol = Solution()
