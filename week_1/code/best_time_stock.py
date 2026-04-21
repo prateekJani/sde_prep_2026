@@ -20,10 +20,7 @@ class Solution:
                 l = r
             r += 1
 
-        
         return profit
-
-        pass
 
 # Test cases
 if __name__ == "__main__":
